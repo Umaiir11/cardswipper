@@ -119,5 +119,7 @@ License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Built with ❤️ using Flutter. Happy swiping!
+<img width="1080" height="2400" alt="Screenshot_20250723_115143" src="https://github.com/user-attachments/assets/37069087-1a52-4933-bcc8-5d1ae0c87120" />
+<img width="1080" height="2400" alt="Screenshot_20250723_115041" src="https://github.com/user-attachments/assets/e3b6e608-1b29-4f38-82dc-ad73fb6de134" />
+<img width="1080" height="2400" alt="Screenshot_20250723_114910" src="https://github.com/user-attachments/assets/03f6f670-f6be-40d1-806f-612cb47e5af7" />
 
-🎉[Screen Recording 2025-07-23 at 11.53.32 AM.mov](../../Desktop/Screen%20Recording%202025-07-23%20at%2011.53.32%E2%80%AFAM.mov)
